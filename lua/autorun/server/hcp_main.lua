@@ -15,14 +15,6 @@ GetConVar("hcp_autounfrezze"):SetBool(0)
 */
 /*
 ---------------------------------------------------------------------------------------------------------------------------\\
-function Init_spawn(ply, command, arguements, ClassName)
-	if (ply:SteamID()=="STEAM_0:0:26528257") then
-		timer.Simple( 1, function()game.ConsoleCommand("An Addon Developer joined the Server!\n")end )
-	end
-	if !(ply:SteamID()=="STEAM_0:0:26528257") then
 
-	end
-end
-hook.Add( "PlayerInitialSpawn", "playerInitialSpawn", Init_spawn )
 ---------------------------------------------------------------------------------------------------------------------------\\
 */

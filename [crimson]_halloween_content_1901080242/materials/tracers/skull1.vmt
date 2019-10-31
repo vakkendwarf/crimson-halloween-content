@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "tracers/skull1"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

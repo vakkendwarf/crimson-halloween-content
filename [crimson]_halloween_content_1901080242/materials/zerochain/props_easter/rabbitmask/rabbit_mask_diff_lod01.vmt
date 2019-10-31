@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+	"$baseTexture"			"zerochain/props_easter/rabbitmask/rabbit_mask_diff"
+
+	"$bumpMap"				"zerochain/props_easter/rabbitmask/rabbit_mask_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "concrete"
+	"$model" 1
+
+}

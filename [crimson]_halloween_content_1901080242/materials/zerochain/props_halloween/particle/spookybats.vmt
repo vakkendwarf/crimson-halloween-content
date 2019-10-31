@@ -1,0 +1,7 @@
+"SpriteCard"
+{
+	$basetexture "zerochain/props_halloween/particle/spookybats"
+	$addself 1.5
+	$overbrightfactor 1.5
+	$DEPTHBLEND 1
+}

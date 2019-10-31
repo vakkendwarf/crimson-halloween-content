@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+    $basetexture "models\halloween\halloween_hanging_lanterns01_diff"
+    $envmap env_cubemap
+    $envmaptint "[.05 .05 .05]"
+    $envmapcontrast "1"
+    $bumpmap "models\halloween\halloween_hanging_lanterns01_norm"
+    $normalmapalphaenvmapmask 1
+    $phong "1"
+    $phongtint  "[1 1 1]"
+    $phongexponent "15"
+    $phongboost "1"
+    $phongfresnelranges "[.8 1 5]"
+    $surfaceprop  "cardboard"
+    $selfillum 1
+    $selfillummask "models\halloween\halloween_hanging_lanterns01_selfillum"
+    //$selfillumtint "[1 1 1]"
+}

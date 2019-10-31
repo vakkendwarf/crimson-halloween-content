@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$baseTexture"			"zerochain/props_easter/rabbitmask/rabbitmask_hair02"
+
+	"$surfaceprop" "concrete"
+	"$model" 1
+	"$nocull" 1
+	"$translucent" 1
+}

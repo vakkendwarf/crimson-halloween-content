@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$basetexture" "particles/dark/smoke"
+	"$nocull" 1
+	"$vertexalpha" "1"
+	$vertexcolor 1
+	$splinetype 1
+	$depthblend 0
+}
+
+

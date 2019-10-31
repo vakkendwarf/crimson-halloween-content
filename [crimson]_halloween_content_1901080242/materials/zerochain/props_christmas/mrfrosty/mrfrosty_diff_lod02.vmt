@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture"			"zerochain/props_christmas/mrfrosty/mrfrosty_diff_lod02"
+	"$blendtintbybasealpha" "0"
+	"$blendtintcoloroverbase" "0"
+
+	"$surfaceprop" "flesh"
+	"$model" 1
+}

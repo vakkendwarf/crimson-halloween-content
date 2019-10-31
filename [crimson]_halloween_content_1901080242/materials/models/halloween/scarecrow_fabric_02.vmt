@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+    $basetexture "models\props_harvest\scarecrow_diff"
+    $bumpmap "models\props_harvest\scarecrow_norm"
+    $normalmapalphaenvmapmask   "1"
+    $phong                      "1"
+    $phongexponent              "2"
+    $phongexponenttexture "models\props_harvest\scarecrow_exp"
+    $phongboost                 "0.2"
+    $phongfresnelranges         "[.25 0.5 1]"
+}

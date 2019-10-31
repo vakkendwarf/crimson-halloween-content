@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_halloween/halloween_sweets/halloween_sweets_diff_lod02"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+	"$surfaceprop" "flesh"
+	"$model" 1
+}

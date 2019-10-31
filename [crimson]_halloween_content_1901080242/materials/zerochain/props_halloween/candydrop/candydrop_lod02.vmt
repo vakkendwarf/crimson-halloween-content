@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_halloween/candydrop/candydrop_lod02"
+
+	"$surfaceprop" "paper"
+	"$model" 1
+}

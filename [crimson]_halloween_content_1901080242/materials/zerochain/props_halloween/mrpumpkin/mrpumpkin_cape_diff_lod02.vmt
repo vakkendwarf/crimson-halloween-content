@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_halloween/mrpumpkin/mrpumpkin_cape_diff_lod02"
+
+	"$surfaceprop" "cloth"
+	"$model" 1
+}

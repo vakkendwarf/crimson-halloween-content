@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_christmas/xmasgift01/xmasgift_ribbon_diff"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+
+	"$surfaceprop" "paper"
+	"$model" 1
+
+	
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 .7 0]"
+	"$envmapfresnel" "3"
+	
+}

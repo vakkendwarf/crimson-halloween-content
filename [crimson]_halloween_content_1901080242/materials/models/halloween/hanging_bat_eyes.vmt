@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+    $basetexture "models\halloween\hanging_bat_eyes"
+     $selfillum "1"
+     $selfillumtint "[3 0 0]"  
+
+}

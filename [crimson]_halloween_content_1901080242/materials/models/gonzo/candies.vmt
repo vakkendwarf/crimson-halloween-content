@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/gonzo/candy"
+    "$normalmapalphaenvmapmask" 1
+    "$envmapcontrast" 0.9
+    "$envmaptint" 	"[0.2 0.2 0.2]"
+    "$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "50"	
+	"$lightwarptexture" "models/gonzo/pyro_lightwarp"
+	"$phongfresnelranges"	"[0.007 0.4 5]"
+	"$halflambert" "1"
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "2"	
+}

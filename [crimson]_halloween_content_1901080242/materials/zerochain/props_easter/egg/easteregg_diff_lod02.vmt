@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+	"$baseTexture"			"zerochain/props_easter/egg/easteregg_diff_lod02"
+
+	"$surfaceprop" "concrete"
+	"$model" 1
+}

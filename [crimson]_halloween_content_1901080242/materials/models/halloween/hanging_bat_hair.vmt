@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+    $basetexture "models\halloween\hanging_bat_hair"
+    $alphatest "1"
+    $alphatestreference ".4"
+    $nocull "1"
+  
+  
+
+
+}

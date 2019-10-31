@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_christmas/xmasgift01/xmasgift_box_diff_lod02"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+	"$surfaceprop" "paper"
+	"$model" 1
+
+}

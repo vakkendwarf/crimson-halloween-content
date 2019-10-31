@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "zerochain/props_christmas/cakepiece01/cakepiece01_diff"
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+
+	"$bumpMap"				"zerochain/props_christmas/cakepiece01/cakepiece01_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "flesh"
+	"$model" 1
+
+}

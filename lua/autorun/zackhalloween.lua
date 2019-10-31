@@ -1,5 +1,5 @@
 /*
-	Addon by Rokay "Rambo"
+	Addon by Helios "soileH"
 */
 
 player_manager.AddValidModel( "Zack Halloween", "models/player/zack/zackhalloween.mdl" )
